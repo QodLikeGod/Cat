@@ -2,7 +2,7 @@
 
 int main(int argc, char **argv) {
   if (argc < 2) {
-    printf("Usage: cat [OPTION] [FILE]\n");
+    printf("Usage: qcat [OPTION] [FILE]\n");
     return 1;
   }
 

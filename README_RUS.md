@@ -9,9 +9,9 @@ The english version of the project can be found in the repository.
 1. [Information](#Information)
 2. [Chapter I](#История) \
 3. [Chapter II](#Использование) \
-4. [Chapter III](#Опции | Описание |) \
+4. [Chapter III](#Опции_|_Описание|) \
 
-
+![s21_math](misc/rus/meow.png)
 
 ## Information
 

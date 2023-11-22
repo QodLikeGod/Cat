@@ -1,8 +1,8 @@
 
-str          !
+cats love dogs         !
 
 
      
 
-	 end.
+	 and vice versa .
 

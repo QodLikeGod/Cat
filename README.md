@@ -7,11 +7,12 @@ Development of Bash text utilities: cat, grep.
 ## Contents
 
 1. [Information](#Information)
-2. [Chapter I](#cat_Options) 
-3. [Chapter II](#chapter-ii) \
-4. [Chapter III](#chapter-iii) \
+2. [Chapter I](#cat_History) 
+3. [Chapter II](#cat_Usage) \
+4. [Chapter III](#cat_Options) \
+5. [Chapter IV](#Cat_Test) \
 
-
+![s21_math](misc/eng/meow.png)
 
 ## Information
 
@@ -35,4 +36,10 @@ Cat is one of the most frequently used commands on Unix-like operating systems. 
 | 3 | -n (GNU: --number) | number all output lines |
 | 4 | -s (GNU: --squeeze-blank) | squeeze multiple adjacent blank lines |
 | 5 | -t implies -v (GNU: -T the same, but without implying -v) | but also display tabs as ^I  |
+
+### Cat_Tests
+
+If you want test 
+
+|
 

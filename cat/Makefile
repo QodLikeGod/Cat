@@ -1,15 +1,18 @@
 CC=gcc -Wall -Werror -Wextra
-EXE=s21_cat
+EXE=qcat
 
-all: s21_cat
+all: qcat
 
 clean: 
 	rm -rf $(EXE)
 
 rebuild: clean all
 
-s21_cat: s21_cat.c s21_cat_functions.c
-	$(CC) -o $(EXE) s21_cat.c s21_cat_functions.c
+qcat: qcat.c qcat_functions.c
+	$(CC) -o $(EXE) qcat.c qcat_functions.c
 
-f: s21_cat.c s21_cat_functions.c
-	$(CC) -o $(EXE) s21_cat.c s21_cat_functions.c -fsanitize=address
+f: qcat.c qcat_functions.c
+	$(CC) -o $(EXE) qcat.c qfunctions.c -fsanitize=address
+
+
+##Краткость-сестра таланта!
