@@ -12,7 +12,7 @@ Development of Bash text utilities: cat, grep.
 4. [Chapter III](#cat_Options) \
 5. [Chapter IV](#Cat_Test) \
 
-![s21_math](misc/eng/meow.png)
+![/(^_^/)](misc/eng/meow.png)
 
 ## Information
 
