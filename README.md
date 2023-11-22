@@ -7,7 +7,7 @@ Development of Bash text utilities: cat, grep.
 ## Contents
 
 1. [Information](#Information)
-2. [Chapter I](#cat Options) \
+2. [Chapter I](#cat_Options) 
 3. [Chapter II](#chapter-ii) \
 4. [Chapter III](#chapter-iii) \
 
@@ -26,7 +26,7 @@ Cat is one of the most frequently used commands on Unix-like operating systems. 
 
 `cat [OPTION] [FILE]...`
 
-### cat Options
+### cat_Options
 
 | No. | Options | Description |
 | ------ | ------ | ------ |
