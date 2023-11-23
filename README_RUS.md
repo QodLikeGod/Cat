@@ -1,4 +1,4 @@
-# Simple Bash Utils
+# Simple Bash Util
 
 Разработка утилиты Bash по работе с текстом cat.
 
