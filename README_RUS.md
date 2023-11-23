@@ -1,6 +1,6 @@
 # Simple Bash Utils
 
-Разработка утилит Bash по работе с текстом: cat, grep.
+Разработка утилиты Bash по работе с текстом cat.
 
 The english version of the project can be found in the repository.
 
@@ -11,7 +11,7 @@ The english version of the project can be found in the repository.
 3. [Chapter II](#Использование) \
 4. [Chapter III](#Опции_|_Описание|) \
 
-![s21_math](misc/rus/meow.png)
+![/(^_^/)](cat/misc/rus/meow.png)
 
 ## Information
 
