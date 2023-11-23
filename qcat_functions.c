@@ -1,6 +1,6 @@
 #include "qcat.h"
 
-void cat(FILE *f, const char *table[static 256], options opt) {
+void qcat(FILE *f, const char *table[static 256], options opt) {
   int ch = 0;
   int cnt = 0;
   int flagS = 0;
@@ -10,7 +10,7 @@ void cat(FILE *f, const char *table[static 256], options opt) {
       int line = (ch == '\n' && lst == '\n') ? 1 : 0;
       if (ch == '\n') {
         if (flagS) {
-          continue;  //даже это идеально!
+          continue;
         }
       } else {
         flagS = 0;
@@ -39,7 +39,6 @@ void parse_options(int argc, char **argv, options *opt) {
       {"squeeze-blank", no_argument, NULL, 's'},
       {NULL, 0, NULL, 0}};
 
-  /*Switch Case это красиво!*/
   int op;
   while ((op = getopt_long(argc, argv, short_options, long_options, NULL)) !=
          -1) {

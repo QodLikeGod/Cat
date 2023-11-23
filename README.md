@@ -1,6 +1,6 @@
-# Simple Bash Utils
+# Simple Bash Util
 
-Development of Bash text utilities: cat, grep.
+Development of Bash text utility: cat.
 
 Русская версия находится в репозитории.
 
@@ -12,16 +12,16 @@ Development of Bash text utilities: cat, grep.
 4. [Chapter III](#cat_Options) \
 5. [Chapter IV](#Cat_Test) \
 
-![s21_math](misc/eng/meow.png)
+![(^_^)](misc/eng/meow.png)
 
 ## Information
 
-### cat History
+### cat_History
 
 > cat was part of the early versions of Unix, e.g., Version 1, and replaced pr, a PDP-7 and Multics utility for copying a single file to the screen. 
 And this code is a monument to him! because CAT is unique!
 
-### cat Usage
+### cat_Usage
 
 Cat is one of the most frequently used commands on Unix-like operating systems. It has three related functions with regard to text files: displaying them, combining copies of them and creating new ones.
 
@@ -39,7 +39,10 @@ Cat is one of the most frequently used commands on Unix-like operating systems. 
 
 ### Cat_Tests
 
-If you want test 
+If you want to test 
+
+sh ./test_cat/test_func_qcat.sh
+
 
 |
 
