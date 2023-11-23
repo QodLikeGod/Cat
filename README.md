@@ -7,10 +7,10 @@ Development of Bash text utility: cat.
 ## Contents
 
 1. [Information](#Information)
-2. [Chapter I](#cat_History) 
-3. [Chapter II](#cat_Usage) \
-4. [Chapter III](#cat_Options) \
-5. [Chapter IV](#Cat_Test) \
+2. [cat_History](#cat_History) 
+3. [cat_Usage](#cat_Usage) \
+4. [cat_Options](#cat_Options) \
+5. [Cat_Test](#Cat_Test) \
 
 ![(^_^)](misc/eng/meow.png)
 
