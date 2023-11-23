@@ -1,6 +1,6 @@
-# Simple Bash Utils
+# Simple Bash Util
 
-Development of Bash text utilities: cat, grep.
+Development of Bash text utility cat.
 
 Русская версия находится в репозитории.
 
@@ -12,7 +12,7 @@ Development of Bash text utilities: cat, grep.
 4. [Chapter III](#cat_Options) \
 5. [Chapter IV](#Cat_Test) \
 
-![/(^_^/)](misc/eng/meow.png)
+![/(^_^/)](cat/misc/eng/meow.png)
 
 ## Information
 
