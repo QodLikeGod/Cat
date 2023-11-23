@@ -42,7 +42,3 @@ Cat is one of the most frequently used commands on Unix-like operating systems. 
 If you want to test 
 
 sh ./test_cat/test_func_qcat.sh
-
-
-|
-
