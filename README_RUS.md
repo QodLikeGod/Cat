@@ -7,10 +7,10 @@ The english version of the project can be found in the repository.
 ## Contents
 
 1. [Information](#Information)
-2. [Chapter I](#История) \
-3. [Chapter II](#Использование) \
-4. [Chapter III](#Опции) \
-5. [Chapter IV](#Тест) \
+2. [История](#История) 
+3. [Использование](#Использование) 
+4. [Опции](#Опции) 
+5. [Тест](#Тест) 
 
 ![(^_^)](misc/rus/meow.png)
 
