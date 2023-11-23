@@ -1,4 +1,4 @@
-#include "cat.h"
+#include "qcat.h"
 
 int main(int argc, char **argv) {
   if (argc < 2) {
