@@ -8,9 +8,9 @@ Development of Bash text utility: cat.
 
 1. [Information](#Information)
 2. [cat_History](#cat_History) 
-3. [cat_Usage](#cat_Usage) \
-4. [cat_Options](#cat_Options) \
-5. [Cat_Test](#Cat_Test) \
+3. [cat_Usage](#cat_Usage) 
+4. [cat_Options](#cat_Options)
+5. [Cat_Test](#Cat_Test)
 
 ![(^_^)](misc/eng/meow.png)
 
