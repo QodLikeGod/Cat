@@ -10,7 +10,7 @@ Development of Bash text utility cat.
 2. [Chapter I](#cat_History) 
 3. [Chapter II](#cat_Usage) \
 4. [Chapter III](#cat_Options) \
-5. [Chapter IV](#Cat_Test) \
+5. [Chapter IV](#Cat_Tests) \
 
 ![/(^_^/)](cat/misc/eng/meow.png)
 
