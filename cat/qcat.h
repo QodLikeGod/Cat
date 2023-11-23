@@ -1,5 +1,5 @@
-#ifndef CAT_H
-#define CAT_H
+#ifndef QCAT_H
+#define QCAT_H
 
 #include <getopt.h>
 #include <stdio.h>
@@ -14,7 +14,7 @@ typedef struct {
   int b;
 } options;
 
-void cat(FILE *f, const char *table[static 256], options opt);
+void qcat(FILE *f, const char *table[static 256], options opt);
 void parse_options(int argc, char **argv, options *opt);
 void cat_table(const char *table[static 256]);
 void cat_E(const char *table[static 256]);
