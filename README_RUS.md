@@ -1,15 +1,15 @@
 # Simple Bash Utils
 
-Разработка утилит Bash по работе с текстом: cat, grep.
+Разработка утилит Bash по работе с текстом: cat.
 
 The english version of the project can be found in the repository.
 
 ## Contents
 
 1. [Information](#Information)
-2. [Chapter I](#История) 
-3. [Chapter II](#Использование) 
-4. [Chapter III](#Опции | Описание |) 
+2. [cat История](#История) 
+3. [cat Использование](#Использование) 
+4. [cat Опции](#cat_Опции) 
 
 
 ![simple_bash_utils](source/misc/rus/bashutils.png)
@@ -25,7 +25,7 @@ The english version of the project can be found in the repository.
 
 Cat - одна из наиболее часто используемых команд в Unix-подобных операционных системах. Команда имеет три взаимосвязанные функции в отношении текстовых файлов: отображение, объединение их копий и создание новых.
 
-`cat [OPTION] [FILE]...`
+`./s21_cat [OPTION] [FILE]...`
 
 ### cat Опции
 
