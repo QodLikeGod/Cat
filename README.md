@@ -8,10 +8,11 @@ Development of Bash text utilities: cat, grep.
 
 1. [Information](#Information)
 2. [Chapter I](#cat_Options) 
-3. [Chapter II](#chapter-ii) \
-4. [Chapter III](#chapter-iii) \
+3. [Chapter II](#chapter-ii) 
+4. [Chapter III](#chapter-iii) 
 
 
+![simple_bash_utils](source/misc/eng/bashutils.png)
 
 ## Information
 

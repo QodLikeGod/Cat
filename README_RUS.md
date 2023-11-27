@@ -7,11 +7,12 @@ The english version of the project can be found in the repository.
 ## Contents
 
 1. [Information](#Information)
-2. [Chapter I](#История) \
-3. [Chapter II](#Использование) \
-4. [Chapter III](#Опции | Описание |) \
+2. [Chapter I](#История) 
+3. [Chapter II](#Использование) 
+4. [Chapter III](#Опции | Описание |) 
 
 
+![simple_bash_utils](source/misc/rus/bashutils.png)
 
 ## Information
 
