@@ -1,5 +1,5 @@
-#ifndef CAT_H
-#define CAT_H
+#ifndef S21_CAT_H
+#define S21_CAT_H
 
 #include <getopt.h>
 #include <stdio.h>
